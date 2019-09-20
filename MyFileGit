@@ -1,0 +1,9 @@
+#include<stdio.h>
+usingspace std;
+
+int main()
+{
+
+system("pause");
+return 0;
+}
