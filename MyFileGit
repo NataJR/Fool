@@ -1,6 +1,6 @@
 #include<stdio.h>
 usingspace std;
-
+const int N=10;
 int main()
 {
 
